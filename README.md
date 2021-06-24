@@ -1,4 +1,4 @@
-# ![alt text](https://cdn2.iconfinder.com/data/icons/significon-social/512/Significon-Spotify-64.png) Freehesap.com
+# ![alt text](https://cdn2.iconfinder.com/data/icons/significon-social/512/Significon-Spotify-64.png) Freehesap.com BETA
 
 ## Kurulum
 
@@ -13,4 +13,4 @@ npm run start
 
 Sonucu görmek için tarayıcınızla [http://localhost:5000](http://localhost:5000) ziyaret edin.
 
-Tam bitmiş sayılmaz hala geliştiriliyor [Telegram](https://t.me/disardayim) [Instagram](https://instagram.com/cellatinizinamk/)
+[Telegram](https://t.me/disardayim) [Instagram](https://instagram.com/cellatinizinamk/)
